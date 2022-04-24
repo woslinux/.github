@@ -1,2 +1,2 @@
 # Welcome
-This is just a random repo. Nothing special lol.
+This is just a random organization. Nothing special lol.
